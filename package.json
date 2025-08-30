@@ -1,0 +1,23 @@
+{
+  "name": "sicbo-api-render",
+  "version": "1.0.0",
+  "description": "API for Sicbo Sunwin",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "api",
+    "render",
+    "sicbo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
