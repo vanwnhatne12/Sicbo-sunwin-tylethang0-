@@ -1,23 +1,13 @@
 {
-  "name": "sicbo-api-render",
+  "name": "sicbo-api-proxy",
   "version": "1.0.0",
-  "description": "API for Sicbo Sunwin",
+  "description": "Proxy API Sicbo Sunwin chạy Render",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": [
-    "api",
-    "render",
-    "sicbo"
-  ],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "axios": "^1.7.2",
+    "axios": "^1.6.7",
     "express": "^4.19.2"
-  },
-  "engines": {
-    "node": ">=18.0.0"
   }
 }
